@@ -25,7 +25,7 @@ The overall goals of this course were the following:
 
 More detailed information and links for the course can be found on the [course website](https://www.nvidia.com/en-us/training/instructor-led-workshops/predictive-maintenance/).
 
-<a name="files"></a>
+<a name="File descriptions"></a>
 ## File descriptions
 
 The description of the files in this repository can be found bellow:
