@@ -29,13 +29,13 @@ More detailed information and links for the course can be found on the [course w
 ## File descriptions
 
 The description of the files in this repository can be found bellow:
-- [Lab1-XGBoost-For-Timeseries](https://github.com/HROlive/Big-Data-analysis-with-Hadoop-and-RHadoop/tree/main/Day%201%20-%20Hadoop%2C%20HDFS%2C%20MapReduce) - Training XGBoost Models with RAPIDS for Time Series;
-- [Lab1-Presentation_202208](https://github.com/HROlive/Big-Data-analysis-with-Hadoop-and-RHadoop/tree/main/Day%202%20-%20Big%20Data%20management%20and%20analysis%20with%20Rmpi%20and%20RHadoop) - Training XGBoost Models with RAPIDS for Time Series (Slides);
-- [Lab2-LSTM-For-Timeseries](https://github.com/HROlive/Big-Data-analysis-with-Hadoop-and-RHadoop/tree/main/Day%201%20-%20Hadoop%2C%20HDFS%2C%20MapReduce) - Training LSTM Models Using Keras and TensorFlow for Time Series;
-- [Lab2-Presentation_202208](https://github.com/HROlive/Big-Data-analysis-with-Hadoop-and-RHadoop/tree/main/Day%202%20-%20Big%20Data%20management%20and%20analysis%20with%20Rmpi%20and%20RHadoop) - Training LSTM Models Using Keras and TensorFlow for Time Series (Slides);
-- [Lab3-AE-For-Anomaly-Detection](https://github.com/HROlive/Big-Data-analysis-with-Hadoop-and-RHadoop/tree/main/Day%201%20-%20Hadoop%2C%20HDFS%2C%20MapReduce) - Training Autoencoders for Anomaly Detection;
-- [Lab3-Presentation_202208](https://github.com/HROlive/Big-Data-analysis-with-Hadoop-and-RHadoop/tree/main/Day%202%20-%20Big%20Data%20management%20and%20analysis%20with%20Rmpi%20and%20RHadoop) - Training Autoencoders for Anomaly Detection (Slides);
-- [assignment](https://github.com/HROlive/Big-Data-analysis-with-Hadoop-and-RHadoop/tree/main/Day%201%20-%20Hadoop%2C%20HDFS%2C%20MapReduce) - Training Autoencoders for Anomaly Detection (Assessement);
+- [Lab1-XGBoost-For-Timeseries](https://github.com/HROlive/Applications-of-AI-for-Predictive-Maintenance/blob/main/Lab1-XGBoost-For-Timeseries.ipynb) - Training XGBoost Models with RAPIDS for Time Series;
+- [Lab1-Presentation_202208](https://github.com/HROlive/Applications-of-AI-for-Predictive-Maintenance/blob/main/Lab1-Presentation_202208.pptx) - Training XGBoost Models with RAPIDS for Time Series (Slides);
+- [Lab2-LSTM-For-Timeseries](https://github.com/HROlive/Applications-of-AI-for-Predictive-Maintenance/blob/main/Lab2-LSTM-For-Timeseries.ipynb) - Training LSTM Models Using Keras and TensorFlow for Time Series;
+- [Lab2-Presentation_202208](https://github.com/HROlive/Applications-of-AI-for-Predictive-Maintenance/blob/main/Lab2-Presentation_202208.pptx) - Training LSTM Models Using Keras and TensorFlow for Time Series (Slides);
+- [Lab3-AE-For-Anomaly-Detection](https://github.com/HROlive/Applications-of-AI-for-Predictive-Maintenance/blob/main/Lab3-AE-For-Anomaly-Detection.ipynb) - Training Autoencoders for Anomaly Detection;
+- [Lab3-Presentation_202208](https://github.com/HROlive/Applications-of-AI-for-Predictive-Maintenance/blob/main/Lab3-Presentation_202208.pptx) - Training Autoencoders for Anomaly Detection (Slides);
+- [assignment](https://github.com/HROlive/Applications-of-AI-for-Predictive-Maintenance/blob/main/assignment.py) - Training Autoencoders for Anomaly Detection (Assessement);
 
 <a name="certificate"></a>
 ## Certificate
