@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="images/banner.png">
-</p>
+![Course](images/banner.jpg)
 
 ## Table of Contents
 1. [Description](#description)
