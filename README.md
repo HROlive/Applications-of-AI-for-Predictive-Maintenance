@@ -37,7 +37,7 @@ The description of the files in this repository can be found bellow:
     > - Prepare real data for efficient GPU ingestion with RAPIDS cuDF.
     > - Train a classification model using GPU-accelerated XGBoost and CPU-only XGBoost.
     > - Compare and discuss performance and accuracy results for XGBoost using CPUs, GPUs, and GPUs with cuDF.
-
+______________
 - Lab 2 - Training LSTM Models Using Keras and TensorFlow for Time Series:
   - [Lab2-LSTM-For-Timeseries](https://github.com/HROlive/Applications-of-AI-for-Predictive-Maintenance/blob/main/Lab2-LSTM-For-Timeseries.ipynb) - Notebook;
   - [Lab2-Presentation_202208](https://github.com/HROlive/Applications-of-AI-for-Predictive-Maintenance/blob/main/Lab2-Presentation_202208.pptx) - Slides;
@@ -46,7 +46,7 @@ The description of the files in this repository can be found bellow:
     > - Prepare sequenced data for time-series model training.
     > - Build and train a deep learning model with LSTM layers using Keras.
     > - Evaluate the accuracy of the model.
-
+______________
 - Lab 3 - Training Autoencoders for Anomaly Detection:
   - [Lab3-AE-For-Anomaly-Detection](https://github.com/HROlive/Applications-of-AI-for-Predictive-Maintenance/blob/main/Lab3-AE-For-Anomaly-Detection.ipynb) - Notebook;
   - [Lab3-Presentation_202208](https://github.com/HROlive/Applications-of-AI-for-Predictive-Maintenance/blob/main/Lab3-Presentation_202208.pptx) - Slides;
