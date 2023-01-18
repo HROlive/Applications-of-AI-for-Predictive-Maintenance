@@ -32,7 +32,7 @@ The description of the files in this repository can be found bellow:
 - Lab 1 - Training XGBoost Models with RAPIDS for Time Series:
   - [Lab1-XGBoost-For-Timeseries](https://github.com/HROlive/Applications-of-AI-for-Predictive-Maintenance/blob/main/Lab1-XGBoost-For-Timeseries.ipynb) - Notebook;
   - [Lab1-Presentation_202208](https://github.com/HROlive/Applications-of-AI-for-Predictive-Maintenance/blob/main/Lab1-Presentation_202208.pptx) - Slides;
-
+<br></br>
   > Learn how to predict part failures using XGBoost classification on GPUs with cuDF:
     > - Prepare real data for efficient GPU ingestion with RAPIDS cuDF.
     > - Train a classification model using GPU-accelerated XGBoost and CPU-only XGBoost.
@@ -41,7 +41,7 @@ ______________
 - Lab 2 - Training LSTM Models Using Keras and TensorFlow for Time Series:
   - [Lab2-LSTM-For-Timeseries](https://github.com/HROlive/Applications-of-AI-for-Predictive-Maintenance/blob/main/Lab2-LSTM-For-Timeseries.ipynb) - Notebook;
   - [Lab2-Presentation_202208](https://github.com/HROlive/Applications-of-AI-for-Predictive-Maintenance/blob/main/Lab2-Presentation_202208.pptx) - Slides;
-
+<br></br>
   > Learn how to predict part failures using a deep learning LSTM model with time-series data:
     > - Prepare sequenced data for time-series model training.
     > - Build and train a deep learning model with LSTM layers using Keras.
@@ -51,7 +51,7 @@ ______________
   - [Lab3-AE-For-Anomaly-Detection](https://github.com/HROlive/Applications-of-AI-for-Predictive-Maintenance/blob/main/Lab3-AE-For-Anomaly-Detection.ipynb) - Notebook;
   - [Lab3-Presentation_202208](https://github.com/HROlive/Applications-of-AI-for-Predictive-Maintenance/blob/main/Lab3-Presentation_202208.pptx) - Slides;
   - [assignment](https://github.com/HROlive/Applications-of-AI-for-Predictive-Maintenance/blob/main/assignment.py) - Assessement;
-
+<br></br>
   > Learn how to predict part failures using anomaly detection with autoencoders:
     > - Build and train an LSTM autoencoder.
     > - Develop and train a 1D convolutional autoencoder.
