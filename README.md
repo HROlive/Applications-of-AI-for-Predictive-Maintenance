@@ -28,7 +28,7 @@ More detailed information and links for the course can be found on the [course w
 <a name="files"></a>
 ## File descriptions
 
-The description of the files in this repository can be found bellow:
+The description of the files in this repository can be found below:
 - 1 - Training XGBoost Models with RAPIDS for Time Series:
   - [Lab1-XGBoost-For-Timeseries](https://github.com/HROlive/Applications-of-AI-for-Predictive-Maintenance/blob/main/Lab1-XGBoost-For-Timeseries.ipynb) - Notebook;
   - [Lab1-Presentation_202208](https://github.com/HROlive/Applications-of-AI-for-Predictive-Maintenance/blob/main/Lab1-Presentation_202208.pptx) - Slides;
@@ -50,7 +50,7 @@ ______________
 - 3 - Training Autoencoders for Anomaly Detection:
   - [Lab3-AE-For-Anomaly-Detection](https://github.com/HROlive/Applications-of-AI-for-Predictive-Maintenance/blob/main/Lab3-AE-For-Anomaly-Detection.ipynb) - Notebook;
   - [Lab3-Presentation_202208](https://github.com/HROlive/Applications-of-AI-for-Predictive-Maintenance/blob/main/Lab3-Presentation_202208.pptx) - Slides;
-  - [assignment](https://github.com/HROlive/Applications-of-AI-for-Predictive-Maintenance/blob/main/assignment.py) - Assessement;
+  - [assignment](https://github.com/HROlive/Applications-of-AI-for-Predictive-Maintenance/blob/main/assignment.py) - Assessment;
 <br></br>
   > Learn how to predict part failures using anomaly detection with autoencoders:
     > - Build and train an LSTM autoencoder.
@@ -60,6 +60,6 @@ ______________
 <a name="certificate"></a>
 ## Certificate
 
-The certificate for the workshop can be found bellow:
+The certificate for the workshop can be found below:
 
 ["Applications of AI for Predictive Maintenance" - NVIDIA Deep Learning Institute](https://courses.nvidia.com/certificates/31be2d89f30849a897475cb4206aaf64/) (Issued On: January 2023)
