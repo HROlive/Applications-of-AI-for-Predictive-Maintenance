@@ -62,4 +62,4 @@ ______________
 
 The certificate for the workshop can be found below:
 
-["Applications of AI for Predictive Maintenance" - NVIDIA Deep Learning Institute](https://learn.learn.nvidia.com/certificates/63eab38b910c45f88f1ebe9009bc8028) (Issued On: January 2023 - date mismatch because of account change)
+["Applications of AI for Predictive Maintenance" - NVIDIA Deep Learning Institute](https://learn.nvidia.com/certificates?id=ZrtPzUY7QDOWoKeENBRPMQ) (Issued On: January 2023 - date mismatch because of account change)
